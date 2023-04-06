@@ -1,4 +1,4 @@
-# tokenizator
+# Private data tokenizator
 Script replaces all text private data, such as named entities, dates, money sums into a tokens.
 
 # Requirments
