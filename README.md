@@ -2,7 +2,7 @@
 Script replaces all text private data, such as named entities, dates, money sums into a tokens.
 
 <p align="center">
-<img height="200" src="https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.6435-9/101795032_917429992057298_8014649681483137024_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ov-lqaywC5cAX8YDoO3&_nc_ht=scontent.fdnk2-1.fna&oh=00_AfAsFQwAggpfp0UWAFBwDBOU4Z3JnYGVLUdClLuw3-FpfQ&oe=6456660B" alt="anon picture">
+<img height="500" src="https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.6435-9/101795032_917429992057298_8014649681483137024_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ov-lqaywC5cAX8YDoO3&_nc_ht=scontent.fdnk2-1.fna&oh=00_AfAsFQwAggpfp0UWAFBwDBOU4Z3JnYGVLUdClLuw3-FpfQ&oe=6456660B" alt="anon picture">
 </p>
 
 # Requirments
