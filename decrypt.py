@@ -1,5 +1,5 @@
-import constants
-import object_serialization
+import utils.constants as constants
+import utils.object_serialization as object_serialization
 import json
 import sys
 

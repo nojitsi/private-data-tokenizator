@@ -1,6 +1,6 @@
-import constants
-import object_serialization
-from get_random_string import get_random_string
+import utils.constants as constants
+import utils.object_serialization as object_serialization
+from utils.get_random_string import get_random_string
 
 import json
 import spacy
