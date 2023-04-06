@@ -1,5 +1,5 @@
 # tokenizator
-Script tokenizes all private info from the text, so it could be used further.
+Script replaces all text private data, such as named entities, dates, money sums into a tokens.
 
 # Requirments
 - Python
@@ -18,7 +18,7 @@ Script tokenizes all private info from the text, so it could be used further.
 # Supported languages
 - English
 
-# How yo use
+# How to use
 - Paste text with private info into decrypted.txt
 - Run encrypt script
 ```
