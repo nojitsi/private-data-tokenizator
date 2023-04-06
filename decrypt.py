@@ -6,7 +6,12 @@ import sys
 print('Reading {} content'.format(constants.OUTPUT_FILE_NAME))
 output_file_string = ""
 with open(constants.OUTPUT_FILE_NAME) as file:
-    output_file_string = file.read()
+    lines = file.readlines()
+
+    for index, line in enumerate(lines):
+        if (index != 0):
+            output_file_string += "\\n"
+        output_file_string += line.strip() 
 
 print('Checking necessary data for decryption')
 output_file_object = json.loads(output_file_string)
